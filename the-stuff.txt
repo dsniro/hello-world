@@ -1,8 +1,14 @@
 Here's the stuff. 
 
 Ideally, I'd like to add more stuff: 
-1) Code
-2) Ideas for websites
+1) Code:
+  a. algorithms
+  b. daily coding challenge updates/issues
+  c. things I'm researching. 
+2) Ideas for websites:
+  a. something with menus
+  b. something using a MEAN stack
+  c. need to make a cheesy 90s website just because. 
 3) Photo blog: 
   a. Nature
   b. Skies/clouds
@@ -10,3 +16,4 @@ Ideally, I'd like to add more stuff:
 
 
 How about some images of 90s websites to use as inspiration. Recreate them in paint?
+-or better yet, wordpad. as a .rtf
