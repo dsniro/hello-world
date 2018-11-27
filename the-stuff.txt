@@ -4,7 +4,9 @@ Ideally, I'd like to add more stuff:
 1) Code:
   a. algorithms
   b. daily coding challenge updates/issues
-  c. things I'm researching. 
+    1. These are still a bit above me. Lots of problems involving trees and nodes. Need to find out what these are. 
+  c. things I'm researching
+  
 2) Ideas for websites:
   a. something with menus
   b. something using a MEAN stack
@@ -17,3 +19,4 @@ Ideally, I'd like to add more stuff:
 
 How about some images of 90s websites to use as inspiration. Recreate them in paint?
 -or better yet, wordpad. as a .rtf
+-or even better still, in the NeXTStep emulator in VirtualBox :)
